@@ -2,7 +2,10 @@
 Ellipsoid Ray Caster Multi-Textured with D+1/R2+A Lighting in 360 degrees
 
 ![raster9](https://user-images.githubusercontent.com/19920254/146726596-3b668b7a-f02a-4106-8288-e86d2576a8fe.png)
+![testCCCA8](https://user-images.githubusercontent.com/19920254/147383008-bd4e96a1-45f9-4e07-9269-6c1d1096d88c.jpg)
+![testCCCB8](https://user-images.githubusercontent.com/19920254/147383011-94684d0d-ba99-45a3-90ea-ba95079fee15.jpg)
 
+![raster8](https://user-images.githubusercontent.com/19920254/147382965-1c2cd763-0560-4f06-bed6-98205b020d29.png)
 ![testCCCA9a](https://user-images.githubusercontent.com/19920254/146726598-2e597cbc-f88a-4a9e-a146-6ee9e55368b5.png)
 ![testCCCB9a](https://user-images.githubusercontent.com/19920254/146726807-f6abb072-2663-4a77-be85-4ec1f0da11af.png)
 
