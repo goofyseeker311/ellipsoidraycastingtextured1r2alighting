@@ -19,5 +19,9 @@ Ellipsoid Ray Caster Multi-Textured with D+1/R2+A Lighting in 360 degrees
 ![galaxy2](https://user-images.githubusercontent.com/19920254/146726591-9b4bcb2f-7347-4a1f-8b9b-af502c208cc4.jpg)
 ![skygalaxy-hdri-114148912](https://user-images.githubusercontent.com/19920254/146726597-6a1988dd-6e9c-4d66-8f8a-2ec7a21e172b.jpg)
 ![voie-lactee-hd-eso-l3](https://user-images.githubusercontent.com/19920254/146726897-48def75f-4f58-468c-b111-550c8d66a65c.jpg)
+![bush_texture](https://user-images.githubusercontent.com/19920254/147388699-e372fb25-c534-4c87-b391-2c9223444b34.jpg)
+![fir_tree_PNG5661](https://user-images.githubusercontent.com/19920254/147388700-ffb3de81-f199-4e58-810d-b92df2084ca6.png)
+![pine-tree-texture-3](https://user-images.githubusercontent.com/19920254/147388701-684d06b8-8414-4c86-bb08-f7ca142b7a33.jpg)
+![tree_texture](https://user-images.githubusercontent.com/19920254/147388703-79deeea3-1536-4757-be5d-c27334ca7ab5.jpg)
 
 ![testCCCB9](https://user-images.githubusercontent.com/19920254/146726800-31882504-64da-4ec0-be9c-32cfe060cd26.jpg)
